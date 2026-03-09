@@ -6,7 +6,7 @@ Claude Git does **not** collect, transmit, or store any user data on external se
 
 ## Local Storage
 
-The skill stores a single configuration file at `~/.claude-git/config.json` on your machine. This file may contain:
+The skill stores a single configuration file at `~/.claude-git/config.json` on your machine. This file contain:
 
 - Your chosen git provider (GitHub or Forgejo)
 - A personal access token (PAT) for API authentication
